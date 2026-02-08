@@ -1,7 +1,5 @@
 # unsupervised-ml-house-price-analysis & predictions
 
-# Unsupervised Learning – King County House Prices
-
 ## Project Objective
 The objective of this project is to analyze house prices using unsupervised learning techniques and identify patterns and clusters in the data.
 
